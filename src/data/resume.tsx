@@ -8,7 +8,7 @@ export const DATA = {
   location: "Montgomery,AL",
   locationLink: "https://www.google.com/maps/place/Montgomery",
   summary:
-        "I am a dedicated Full Stack Developer with a Master’s in Computer Science and over 3 years of experience in software development. At LTIMindtree, I played a key role in the Citi Bank KYC Application, managing both frontend and backend development tasks, including form creation, database management, and regional customization to comply with diverse regulatory requirements. I am proficient in languages such as C, Python, JavaScript, and Java, and have hands-on experience with technologies like Angular, React.js, Springboot, and more. My passion lies in delivering scalable, efficient software solutions that enhance business processes and user experience.",
+        "I am a Full Stack Developer with a Master’s in Computer Science and over 2.5 years of experience at Stonedge Technologies as an Android and Web App Developer. I developed user-friendly mobile and web applications, handling both frontend and backend tasks. Skilled in C, Python, JavaScript, and Java, I have experience with frameworks like Angular and React.js. My focus is on building efficient, scalable applications that enhance user experience and business processes.",
   description:
       "Software Engineer",
   avatarUrl: "/sanju.png",
@@ -83,8 +83,7 @@ export const DATA = {
       start: "Oct 2020",
       end: "July 2023",
       description:
-        "Underwent rigorous training in areas like Java, Entity Framework, SQL Programming, jQuery, HTML, CSS, SQL Database Administration.. "+" \nDesigned and developed Model-View Controller for e-shoppy application where data will be rendered " +
-          "to Model and UI components are seen in View also controller acts as an interface between both which manages the incoming requests",
+        "I have worked with Java, Entity Framework, SQL Programming, jQuery, HTML, CSS, and SQL Database Administration. For the e-shoppy application, I implemented the Model-View-Controller (MVC) architecture, where the Model processes data, the View presents the user interface, and the Controller manages user requests and coordinates interactions between the Model and View.",
     }
   ],
   education: [
@@ -106,38 +105,7 @@ export const DATA = {
     },
   ],
   projects: [
-    {
-      title: "Citi Bank KYC Application",
-      href: "https://www.citi.com/",
-      dates: "January 2021 – July 2023",
-      active: true,
-      description:
-        "The Citi Bank KYC application is a critical component of Citi Bank’s compliance and regulatory framework.\n" +
-          "This project involved developing and maintaining a comprehensive KYC application to streamline and\n" +
-          "manage the customer verification process across multiple regions, including EMEA (Europe, the Middle East,\n" +
-          "and Africa), LATAM (Latin America), APAC (Asia-Pacific), and Mexico",
-      technologies: [
-        "SOAP",
-        "Typescript",
-        "PostgreSQL",
-        "Prisma",
-        "TailwindCSS",
-        "Stripe",
-        "Shadcn UI",
-        "Magic UI",
-      ],
-      links: [
-        {
-          type: "Website",
-          href: "https://www.citi.com/",
-          icon: <Icons.globe className="size-3" />,
-        },
-      ],
-      image: "",
-      video:
-        "https://www.shutterstock.com/shutterstock/videos/1057814713/preview/stock-footage-metal-citibank-emblem-on-a-mirrored-surface.webm",
-    },
-
+    
     {
       title: "Bonafide Generator",
       href: "",
